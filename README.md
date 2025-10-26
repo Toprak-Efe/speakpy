@@ -35,6 +35,8 @@ export PATH="$HOME/.local/bin:$PATH"
 
 ## Considerations
 
+If you move the `speakpy` folder, the program will cease functionality, make sure to edit the installed caller script to accommodate the new `speakpy` path; or run `./install.sh` again.
+
 Since the application merely works off a file, you may limit which programs can speak by using the native file permissions. 
 
 For hyprland, you may simply exec-once at start-up to initialize the daemon.
