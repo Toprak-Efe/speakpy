@@ -1,0 +1,28 @@
+{
+    "voices": {
+        "system": {
+            "system_startup": "Machine initiated.",
+            "system_shutdown": "Machine terminating.",
+            "system_restart": "Machine restarting.",
+            "system_error": "Erroneous state detected.",
+            "system_update": "Machine software updated."
+        },
+        "power": {
+            "power_connected": "Power link connected.",
+            "power_disconnected": "Power link disconnected.",
+            "power_low": "Power at fifteen percent.",
+            "power_full": "Power at maximum capacity."
+        },
+        "device": {
+            "device_connected": "Auxillary connected.",
+            "device_disconnected": "Auxillary disconnected."
+            "device_mounted": "Data storage unit mounted.",
+            "device_dismounted": "Data storage unit dismounted."
+        },
+        "network": {
+            "network_connected": "Noosphere link connected.",
+            "network_disconnected": "Noosphere link disconnected."
+        }
+    }
+}
+
